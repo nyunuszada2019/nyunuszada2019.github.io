@@ -2,6 +2,7 @@ baseurl = "https://www.example.com/"
 languageCode = "en"
 title = "VEX Bootstrap 4 Product Landing Page"
 theme = "vex-hugo-master"
+publishDir="docs"
 
 [params]
   description = ""
